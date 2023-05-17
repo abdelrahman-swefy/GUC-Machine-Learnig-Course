@@ -1,6 +1,6 @@
 # GUC Clustering Project
 
-The GUC Clustering Project is an educational project designed apply clustering techniques to real datasets. The project focuses on the following objectives:
+The GUC Clustering Project is an educational project designed apply clustering techniques to 3 different datasets. The project focuses on the following objectives:
 
 1- Understanding different clustering approaches: Students will learn about various clustering algorithms, including K-means, Hierarchical, DBSCAN, and Gaussian Mixtures.
 
